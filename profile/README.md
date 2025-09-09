@@ -3,7 +3,7 @@
 </p>
 <hr style="border: #77F0CB;">
 
-## ㅤㅤ ㅤㅤㅤ  ㅤㅤㅤ  ㅤㅤㅤ  ㅤㅤㅤㅤ ㅤㅤTechnologies
+## Technologies
 
 <div align="center">
   
